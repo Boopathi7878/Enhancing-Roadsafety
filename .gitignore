@@ -6,13 +6,6 @@ __pycache__/
 # Virtual environment
 .venv/
 
-# Data files (raw or intermediate)
-data/cleaned_RTA_dataset.csv
-
-# Model files (binary / large)
-models/*.pkl
-models/*.h5
-
 # Scaler files
 models/scaler.pkl
 
